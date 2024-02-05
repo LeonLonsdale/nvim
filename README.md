@@ -61,8 +61,9 @@ Whilst in the terminal...
 
 - Escape = switch from Terminal Mode into Normal Mode (necessary to open 2nd terminal)
 - i = return to Terminal mode
+
+In terminal mode:
+
 - control + h = move to left terminal
 - control + l = move to right terminal
 - control + k = move out of terminal back into code editor
-
-
