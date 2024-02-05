@@ -2,6 +2,20 @@
 
 This is just a personal setup, and is not something I'm actively updating as a public release, unless my personal needs change.
 
+# Install
+
+Navigate to your nvim config directory
+
+On Mac that is `~/.config`
+
+Using the Git CLI:
+
+`git clone git@github.com:LeonLonsdale/nvim.git`
+
+Using GH CLI:
+
+`gh repo clone LeonLonsdale/nvim`
+
 # Bindings
 
 Leader is set to <space>.
